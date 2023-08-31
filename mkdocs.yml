@@ -1,0 +1,6 @@
+site_name: Testing mkdocs + draw.io
+theme:
+  name: readthedocs
+  locale: pt_BR
+plugins:
+  - drawio_file
